@@ -1,0 +1,6 @@
+id=debian_chroot
+name=Debian 13 Chroot
+version=1.2
+versionCode=1
+author=Ran
+description=Debian 13 ARM64 chroot environment
